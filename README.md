@@ -1,7 +1,7 @@
 # 🍝 Philo – My First Concurrency Project!
 
-## For my ninth project at Hive Helsinki, I stepped into the world of multithreading and 
-## built a simulation of the classic Dining Philosophers Problem using pthreads and mutexes! 🧠🔧
+### For my ninth project at Hive Helsinki, I stepped into the world of multithreading and 
+### built a simulation of the classic Dining Philosophers Problem using pthreads and mutexes! 🧠🔧
 
 In this simulation, a group of philosophers sit around a table, alternating between thinking, eating, 
 and sleeping — but there’s a catch...
