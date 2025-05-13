@@ -72,4 +72,4 @@ This project taught me a lot about:
 - Detecting and preventing race conditions
 - The challenge of starvation and deadlock prevention
 
-It was a fun project, i got to think a lot what approach is best for this and again taught me so many new things to implement in my future ! 
+This was a interesting project to work on. It made me think carefully about the best approach to solve the problem, and once again, it taught me so many valuable lessons that I’ll carry forward into future projects!
