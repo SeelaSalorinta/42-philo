@@ -71,3 +71,5 @@ This project taught me a lot about:
 - Synchronization and mutexes
 - Detecting and preventing race conditions
 - The challenge of starvation and deadlock prevention
+
+It was a fun project, i got to think a lot what approach is best for this and again taught me so many new things to implement in my future ! 
