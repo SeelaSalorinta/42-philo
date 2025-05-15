@@ -45,10 +45,10 @@ void	eat(t_philosopher *philo)
 	philo->last_meal_time = current_time();
 	pthread_mutex_unlock(&philo->sim->meal_time_lock);
 	print_status(philo, STATUS_EATING);
+	philo_sleep(philo->sim->time_to_eat, philo);
 	pthread_mutex_lock(&philo->sim->eating_lock);
 	philo->meals_eaten++;
 	pthread_mutex_unlock(&philo->sim->eating_lock);
-	philo_sleep(philo->sim->time_to_eat, philo);
 }
 
 long long	current_time(void)
